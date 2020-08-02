@@ -341,6 +341,25 @@ while seguir:
         actualizar_registro()
     if opcion == 5:
         seguir = False
+        
+Pantalla e interface de la aplicación:
+
+<p align="center">
+  <img src = "pantalla.png" />
+</p>
+
+Autor: Lcdo. José Fernando Frugone Jaramillo
+@ mail: frugonejose1970@gmail.com
+        jfrugone1970@hotmail.com
+facebook: https://www.facebook.com/jose.fernando.frugone.jaramillo/
+
+<p align="center">
+  <img src = "Foto de Jose Frugone.png" />
+</p>
+
+
+
+
 
 
 
