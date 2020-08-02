@@ -351,7 +351,6 @@ Pantalla e interface de la aplicación:
 Autor: Lcdo. José Fernando Frugone Jaramillo
 @ mail: frugonejose1970@gmail.com
         jfrugone1970@hotmail.com
-facebook: https://www.facebook.com/josefernando.frugonejaramillo/
 twitter: https://twitter.com/jaram_jos
 
 <p align="center">
