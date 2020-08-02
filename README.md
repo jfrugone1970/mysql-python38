@@ -8,7 +8,7 @@ Vamos a usar el entorno de desarrollo integrado que es Netbeans que es el más c
 Para instalar netbeans desde la pagina WEB de Google https://www.google.com/ ponemos Netbeans seleccionamos el link o enlace de la página oficial de NetBeans
 
 <p align="center">
-  <img src = "Netbeans(PaginaOficial).png" />
+  <img src = "Netbeans(Pagina Oficial).png" />
 </p>
 
 https://netbeans.org/ y seleccionamos descargas, a lo que seleccionar descargar se despliga otra ventama donde seleccionas la opción más reciente de Netbeans que vas a instalar (https://netbeans.apache.org/download/index.html) 
@@ -30,6 +30,8 @@ y de la página Oficial de Sublime Text para descargarlo das un click en downloa
 Y hay algo bien importante que tengas en cuenta y obligatorio a instalar que es un servidor de aplicaciones WEB, un servidor de aplicaciones WEB que es un conjunto de herramientas que están disponibles para el usuario.Un servidor de entorno WEB tiene PHP, Apache para poder programar en PHP, tiene Mysql para poder trabajar con nuestras bases de datos, que se puede hacer para tener un servidor de aplicaciones web, se tiene varias alternativas desde la página web https://www.google.com/ podemos descargar wamp server o xampp, pero el que te recomiendo y el que voy a utilizar es wampserver, para entrar a la página WEB oficial de Wamp server desde la página WEB https://www.google.com/ digitamos wamp server y entramos a la página oficial de wamps server
 
 https://www.wampserver.com/en/ (Página Oficial de Wamps server)
+
+
 
 nos vamos a la opción descargas que tenemos la siguiente página.
 
