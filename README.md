@@ -21,7 +21,9 @@ en download lo descargar y una vez descargado procedes a realizar la instalació
 
 Si desea descargar Sublime Text 3 para instalarlo ya que es un editor de codigo mucho más ligero que Netbeans simplemente desde el navegador del google en la página WEB de https://www.google.com/ ponemos Sublime Text y nos aparecer varios enlaces de Sublime Text en donde ingresamos al link o enlace de la página Oficial de Sublime Text que es https://www.sublimetext.com/ (adjunto pantalla de la página Oficial)
 
-
+<p align="center">
+  <img src = "Sublime_Text(Pagina Oficial).png" />
+</p>
 
 
 
