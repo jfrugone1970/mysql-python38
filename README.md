@@ -31,11 +31,24 @@ Y hay algo bien importante que tengas en cuenta y obligatorio a instalar que es 
 
 https://www.wampserver.com/en/ (Página Oficial de Wamps server)
 
+<p align="center">
+  <img src = "wamp_server.png" />
+</p>
+
+<p align="center">
+  <img src = "wamp_server(descargas).png" />
+</p>
 
 
 nos vamos a la opción descargas que tenemos la siguiente página.
 
+
 Al instalar wamps server se tiene varios avisos y lo más importante que debes de tener instalado el paquete de instalación de Visual C++ de Microsoft http://www.microsoft.com/en-us/download/details.aspx?id=30679 
+
+<p align="center">
+  <img src = "Paquete_visual_c.png" />
+</p>
+
 
 Wamps serrver lo podemos descargar desde la página https://sourceforge.net/projects/wampserver/files/WampServer%203/WampServer%203.0.0/wampserver3.2.0_x64.exe/download
 
@@ -44,7 +57,19 @@ donde una vez que se instale el instalador de wamps server lo procedes a instala
 El mismo tipo de consultas que puedes hacer con Python al usar SqLite que es un gestor de bases de datos más ligero puedes hacer con Mysql server que es mas potente con SqLite y para poder trabajar con Mysql Server para poder trabajar en Python hay que tener un modulo que se llama Mysql connector Python, se puede tener instalado mysql desde dos formas:
 1) Si bien puedes instalar mysql desde la página oficial de Mysql https://www.mysql.com/ (Pagina Oficial)
 
+<p align="center">
+  <img src = "mysql_pagina_oficial.png" />
+</p>
+
 https://www.mysql.com/downloads/
+
+<p align="center">
+  <img src = "Mysql Community descargar.jpg" />
+</p>
+
+<p align="center">
+  <img src = "Mysql_community_python.png" />
+</p>
 
 Entramos a Mysql de la comunidad y lo descargas.
 
