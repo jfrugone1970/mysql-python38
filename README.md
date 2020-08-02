@@ -5,11 +5,23 @@ Vamos a preparar nuestro entorno de desarrollo para programar en PHP, basicament
 
 
 Vamos a usar el entorno de desarrollo integrado que es Netbeans que es el más completo, pero que también se puede usar sublime text 3, visual studios code, yo voy a utilizar Netbeans pero tu puedes usar el editor de codigo que más prefieras a tu elección, Netbeans ocupa mucho más recursos de la máquina que Sublime text, lo bueno que tiene el editor de código netbeans que puedes conectarte a la base de datos Mysql server o a la base de datos que tu deseas.
-Para instalar netbeans desde la pagina WEB de Google https://www.google.com/ ponemos Netbeans seleccionamos el link o elnace de la página oficial de NetBeans
+Para instalar netbeans desde la pagina WEB de Google https://www.google.com/ ponemos Netbeans seleccionamos el link o enlace de la página oficial de NetBeans
 
-https://netbeans.org/ y seleccionamos descargas, a lo que seleccionar descargar se despliga otra ventama donde seleccionas la opción más reciente de Netbeans que vas a instalar (https://netbeans.apache.org/download/index.html) en download lo descargar y una vez descargado procedes a realizar la instalación poniendo siguiente, siguiente seguir los pásos del asistente de la instalación hasta realizar la instalación.
+<p align="center">
+  <img src = "Netbeans(PaginaOficial).png" />
+</p>
+
+https://netbeans.org/ y seleccionamos descargas, a lo que seleccionar descargar se despliga otra ventama donde seleccionas la opción más reciente de Netbeans que vas a instalar (https://netbeans.apache.org/download/index.html) 
+
+<p align="center">
+  <img src = "Netbeans(Descargas).png" />
+</p>
+
+en download lo descargar y una vez descargado procedes a realizar la instalación poniendo siguiente, siguiente seguir los pásos del asistente de la instalación hasta realizar la instalación.
 
 Si desea descargar Sublime Text 3 para instalarlo ya que es un editor de codigo mucho más ligero que Netbeans simplemente desde el navegador del google en la página WEB de https://www.google.com/ ponemos Sublime Text y nos aparecer varios enlaces de Sublime Text en donde ingresamos al link o enlace de la página Oficial de Sublime Text que es https://www.sublimetext.com/ (adjunto pantalla de la página Oficial)
+
+
 
 
 
