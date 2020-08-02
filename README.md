@@ -354,7 +354,7 @@ Autor: Lcdo. José Fernando Frugone Jaramillo
 facebook: https://www.facebook.com/jose.fernando.frugone.jaramillo/
 
 <p align="center">
-  <img src = "Foto de Jose Frugone.png" />
+  <img src = "Foto de Jose Frugone.jpg" />
 </p>
 
 
